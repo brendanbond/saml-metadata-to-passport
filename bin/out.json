@@ -1,0 +1,9 @@
+{
+  "identityProviderUrl": "https://login.microsoftonline.com/31f660a5-192a-4db3-92ba-ca424f1b259e/saml2",
+  "entryPoint": "https://login.microsoftonline.com/31f660a5-192a-4db3-92ba-ca424f1b259e/saml2",
+  "logoutUrl": "https://login.microsoftonline.com/31f660a5-192a-4db3-92ba-ca424f1b259e/saml2",
+  "cert": "MIIC8DCCAdigAwIBAgIQaNDqrdipVJdB03lpgvKHCTANBgkqhkiG9w0BAQsFADA0MTIwMAYDVQQDEylNaWNyb3NvZnQgQXp1cmUgRmVkZXJhdGVkIFNTTyBDZXJ0aWZpY2F0ZTAeFw0yMzAzMjkyMTM4NTdaFw0yNjAzMjkyMTM4NTdaMDQxMjAwBgNVBAMTKU1pY3Jvc29mdCBBenVyZSBGZWRlcmF0ZWQgU1NPIENlcnRpZmljYXRlMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAodue5+s+0hMNZ5Vlxn+PG9ac8c6ZMwWFR0bHnjNHjeguOs8ZlP5J7P8IdSdHD+BFmoAILGUMu6abERusxkBRNoHfhcdOCGJ5JtlhcZynUswyejhTBIP2qpjpgG082fAtjYIKMxYvkuLmK5VW67NOU+hKLBO0Z8Ivcmf6ZN5F9rYVwwjM125lrkBwnBdVXtpAjyJ4fhZHP1OfeUUd2841CD0tXZKZvXmO6UpFXPPrescRfOJdQAEIk8We3dGehYS80Pkf9BVD8C1H6RBmFzNUrP7csNTG2//qBWdsWHUa3jge6wfUVbRTdJikM24fp40VdX6bkj90wMeTK3Z6P7E1bQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQAwzBpfyXIRUlksa/LYmJCm77U4dPLqX8i+caVBKA+A43hmhs5GfXXRciuR5X6PiT23dpvICkHEAWX0wlwqjvdykCPZa38+jeJaVoy67gQa1JcfgZ2JQIGKJeHkXST+RoHIcY+z4G9bLYwEo3A1otvLgeMjj+ctzFuN7QdaB4WBEdgDnnM7HaDIBWkQpVi9efa7RN1BqzMVezgFUdm5BW+DDAsrr+gJcMvEfvJTMBCtCMkcjT3cGvyZRkrW0TU8BXyxmzGmEo1VvAKHCrphuuISIPyv+vIC/X40p8/3nBJwjedCr1Xp2JMsExd+TV3miP9zsP/81XN6wuXwnFVQqJRj",
+  "issuer": "4a35e34a-2759-40a1-a15c-b405dae6ccb0",
+  "wantAuthnRequestsSigned": false,
+  "callbackUrl": "https://eforms-dev.bchealthcloud.ca/formio/saml/acs"
+}
